@@ -1,4 +1,5 @@
  README: Instructions for the Research on Optimizing Facility Location Strategies for AI-Driven Manufacturing Enterprises Based on Differential Games
+ 
  I. Project Overview
 This project focuses on the optimization of facility location for AI-driven manufacturing enterprises. It constructs a model using differential game theory and validates and analyzes it through numerical simulations and empirical case studies. The aim is to provide scientific basis for enterprises in facility location decisions and promote the application and development of differential game theory in this field.
 
